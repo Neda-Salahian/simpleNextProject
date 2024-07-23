@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/nedasalahian/Documents/Neda/Code challenge/simpleNextProject/app/layout":["static/media/bec6f0ae4ec11a25-s.p.ttf"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
